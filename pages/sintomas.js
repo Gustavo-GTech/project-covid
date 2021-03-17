@@ -23,7 +23,7 @@ export default function Sobre() {
       <div className="sintomasBackground">
         <div className="sobreAdjust">
           <FontAwesomeIcon style={{width: 45, height: 45, color: '#F1F9F4'}} icon={faHeadSideCough}/>
-          <div className="sobre">Sintomas</div>
+          <div className="sobre">banaana</div>
         </div>
           <div className="sobreTextBox">
             <div className="sobreTitleBox">Sintomas</div>
